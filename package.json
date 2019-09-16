@@ -24,7 +24,7 @@
     "passport-oauth": "~1.0.0",
     "passport-twitter": "~1.0.2",
     "request": "~2.33.0",
-    "sendgrid": "~0.4.6",
+    "sendgrid": "~3.0.0",
     "tumblr.js": "~0.0.4",
     "twit": "~1.1.12",
     "underscore": "~1.5.2",
